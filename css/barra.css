@@ -1,0 +1,32 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(0, 0, 0);
+    padding: 1em;
+}
+
+form{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 0.3em;
+    padding: 0.3em;
+}
+form input, form button{
+    font-size: 1.2em;
+    border-radius: 0.2em;
+    border: none;
+    padding: 0.2em;
+}
+
+form button{
+    cursor: pointer;
+    background: none;
+    color: rgb(0, 0, 0);
+}
+form button:hover{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}

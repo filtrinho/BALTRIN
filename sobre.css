@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+}
+.cor{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 30%;
+}
+footer{
+    background-color: white;
+    color: black;
+    padding: 3px;
+    margin: 0px;
+    text-align: center;
+}
+@media screen and (max-width:700px){
+    
+}
+a{
+    color: white;
+    text-align: left;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}

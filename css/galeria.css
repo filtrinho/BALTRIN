@@ -1,0 +1,42 @@
+header{
+    color: white;
+    text-align: center;
+}
+
+.camisas img{
+    height: 400px;
+    padding: 25px;
+    margin: 0px auto;
+    width: 40%;
+    display: block;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.informacoes  img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    
+}
+@media screen and (max-width:700px) {
+    }
+    
+h5{
+    text-align: left;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+
